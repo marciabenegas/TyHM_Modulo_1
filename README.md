@@ -7,4 +7,9 @@ Ejercicio 2: Creacion de archivo HTML en forma manual
 
 Ejercicio 3:Crear un archivo LATex en https://www.overleaf.com/project
 
-#Ejercico 5:# creacion de CV
+Ejercicio 4: Crear un notebooks
+
+Ejercico 5: Crear un CV en LATex
+
+Ejercico 6: Crear un archivo con metadatos en el entorno R
+
